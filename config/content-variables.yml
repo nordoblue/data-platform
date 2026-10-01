@@ -1,0 +1,6 @@
+product_name: Northstar Data Cloud
+short_product_name: Northstar
+support_email: support@example.com
+api_base_url: https://api.example.com/v1
+max_file_size_gb: 5
+supported_csv_encoding: UTF-8
